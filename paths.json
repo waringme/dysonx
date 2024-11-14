@@ -1,8 +1,5 @@
 {
   "mappings": [
     "/content/dysonx/:/"
-  ],
-  "includes": [
-    "/content/dysonx/"
   ]
 }
