@@ -1,10 +1,8 @@
 {
   "mappings": [
-    "/content/xwalk-tim/:/",
-    "/content/xwalk-tim/configuration:/.helix/config.json",
-    "/content/xwalk-tim/metadata:/metadata.json"
+    "/content/dysonx/:/"
   ],
   "includes": [
-    "/content/xwalk-tim/"
+    "/content/dysonx/"
   ]
 }
