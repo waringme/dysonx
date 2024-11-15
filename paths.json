@@ -1,6 +1,6 @@
 {
   "mappings": [
     "/content/dyson-x/:/",
-    "/content/dyson-x/products:/products.json",
+    "/content/dyson-x/tim:/tim.json",
   ]
 }
